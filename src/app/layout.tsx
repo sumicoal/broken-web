@@ -1,5 +1,4 @@
 import './globals.css'
-import {Provider} from "jotai/react/Provider";
 
 export default function RootLayout({
   children,
